@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guia06_complementario2</string>
+    <string name="correo">correo</string>
+    <string name="constraseña">constraseña</string>
+    <string name="conectar">Conectar</string>
+    <string name="olvido">¿Olvidó su contraseña?</string>
+</resources>

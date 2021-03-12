@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">complementario01</string>
+    <string name="usuario_correo">Correo</string>
+    <string name="usuario_contraseña">Contraseña</string>
+    <string name="login">Login</string>
+    <string name="conectar">Conectar</string>
+    <string name="olvidaste">¿Olvidaste la contraseña?</string>
+    <string name="iniicar_sesion">Iniciar Sesion</string>
+</resources>

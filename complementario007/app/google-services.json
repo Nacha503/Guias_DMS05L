@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158923884126",
+    "project_id": "complementario007",
+    "storage_bucket": "complementario007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158923884126:android:88edd561e0f2a9355156cf",
+        "android_client_info": {
+          "package_name": "sv.cv181237.complementario007"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158923884126-96becqjp9or4632up0mcsu0vddsiq06h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGZ_qF_qGqsALUKdBBMmeDMXRHQt2TXYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158923884126-96becqjp9or4632up0mcsu0vddsiq06h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

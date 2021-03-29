@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "229900642517",
+    "firebase_url": "https://fir-dbrealtiem-default-rtdb.firebaseio.com",
+    "project_id": "fir-dbrealtiem",
+    "storage_bucket": "fir-dbrealtiem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229900642517:android:ba2b28f7354123b5845a5c",
+        "android_client_info": {
+          "package_name": "sv.cv181237.guia08complementario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229900642517-tctckm4o2m6khenuqt7i8v1mdu6e0tsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBV71RpcC2bjOMhpxlt9uACD9a8HYhars"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229900642517-tctckm4o2m6khenuqt7i8v1mdu6e0tsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

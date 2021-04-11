@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/montserrat_alternates"
+        android:shadowColor="#2196F3"
+        android:layout_marginTop="10dp"
+        android:text="Introduzca un usuario registrado en GitHub"
+        android:textColor="#673AB7"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:gravity="center_horizontal" />
+
+    <EditText
+        android:id="@+id/BuscarTxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:ems="10"
+        android:hint="Nombre de Usuario"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Buscar"
+        android:background="@drawable/my_button_bg"
+        />
+
+    <TextView
+        android:id="@+id/txt_repos_encontrados"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:text="Repositorios Asociados" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_marginTop="2dp">
+
+        <TextView
+            android:id="@+id/listaView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="50dp"
+            android:fontFamily="@font/montserrat_alternates"
+            android:textSize="14dp" />
+
+
+    </ScrollView>
+
+
+</LinearLayout>
